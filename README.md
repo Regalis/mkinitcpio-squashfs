@@ -1,3 +1,7 @@
+# Project moved
+
+This project has been moved. Project is now supported by **Regalis Technologies** company from Poland. New location: [RegalisTechnologies/mkinitcpio-squashfs](https://github.com/RegalisTechnologies/mkinitcpio-squashfs) 
+
 mkinitcpio-squashfs
 ===================
 
